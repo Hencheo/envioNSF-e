@@ -1,0 +1,1 @@
+"""\nPacote principal da aplicação\n"""\n\n__version__ = '1.0.0'
